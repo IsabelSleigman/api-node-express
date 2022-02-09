@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "node-express",
+  "description": "Introdução ao Node.js com Express// Dio Cursos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabelSleigman/api-node-express.git"
+  },
+  "author": "Isabel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsabelSleigman/api-node-express/issues"
+  },
+  "homepage": "https://github.com/IsabelSleigman/api-node-express#readme"
+}
